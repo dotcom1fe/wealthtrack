@@ -1,0 +1,7 @@
+{
+  "name": "wealthtrack",
+  "version": "1.0.0",
+  "description": "Personal net worth tracker with auto EOD price updates",
+  "private": true,
+  "engines": { "node": ">=18" }
+}
